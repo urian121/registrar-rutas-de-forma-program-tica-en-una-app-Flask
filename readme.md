@@ -3,6 +3,7 @@
 
 Este es un ejemplo de cómo usar el método **`add_url_rule`** en Flask para registrar rutas de manera programática. Se incluye una estructura modular con funciones de vista y rutas separadas, además de un archivo `index.html` para la página principal.
 
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/registrar-rutas-de-forma-programatica-en-una-app-Flask.png)
 ## Características
 
 - Uso de **`add_url_rule`** para registrar rutas de manera explícita.
